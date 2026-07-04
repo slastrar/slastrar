@@ -5,10 +5,6 @@
 
 - 🔭 I’m currently working on **Data Analyst**
 
-- 🌱 I’m currently learning **Tensorflow**
-
-- 👯 I’m looking to work on **Machine Learning**
-
 - 💬 Ask me about **Python, SQL, Vue.js, JavaScript**
 
 - 📫 How to reach me **santiago.lastrar@gmail.com**
